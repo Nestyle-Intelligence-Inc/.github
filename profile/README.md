@@ -6,3 +6,4 @@ https://www.nestyle.ai
 ### 서비스
 - https://painting.aizac.io
 - https://novel.aizac.io
+- https://www.10second.net
